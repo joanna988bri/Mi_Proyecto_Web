@@ -1,0 +1,43 @@
+{
+    "nombre":"Mipokémon",
+    "originario":"Qro",
+    "creado":2022,
+    "figuras":[
+        {
+            "id":2,
+            "Nombre":"pikachu",
+            "Tipo":"Electrico",
+            "Altura":0.4,
+            "Peso":6.0,
+            "Descripción":"Pikachu es un Pokémon de tipo eléctrico introducido en la primera generación.",
+            "figure":"https://drive.google.com/file/d/1s3hfVjWtBoePW3286QlDQEtsv_Qu2YhX/view?usp=sharing"   
+        },
+        {
+            "id":3,
+            "Nombre":"Arceus",
+            "Tipo":"normal",
+            "Altura":3.2,
+            "Peso": 320.0,
+            "Descripción":" De acuerdo con las mitologías de las regiones del mundo Pokémon y lo conocido hasta el momento se cree que es el primer Pokémon existente, creador del mundo Pokémon y por lo tanto, el dios Pokémon.",
+            "figure":"https://www.ecured.cu/images/d/d5/Arceus11.png"        
+        },
+        {
+            "id":4,
+            "Nombre":"Leafeon",
+            "Tipo":"Planta",
+            "Altura":25.5 ,
+            "Peso":1.0,
+            "Descripción":"Siempre está cuidando y manteniendo el entorno de los bosques, protege los Pokémon que están en el bosque y a la vegetación en general.",
+            "figure":"https://i.pinimg.com/originals/d1/63/67/d1636790ac712c06d438c40fe50b56aa.png"  
+        },
+        {
+            "id":5,
+            "Nombre":"charmander",
+            "Tipo":"fuego",
+            "Altura":0.6,
+            "Peso":8.5,
+            "Descripción":"Charmander es un pequeño lagarto bípedo. Sus características de fuego son resaltadas por su color de piel anaranjado y su cola con la punta envuelta en llamas.",
+            "figure":"https://drive.google.com/file/d/15hVRYAjAqTLhfpALWwV50wAe6xXImAfS/view?usp=sharing"      
+        }
+    ]
+}

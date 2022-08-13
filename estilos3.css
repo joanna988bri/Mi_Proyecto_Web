@@ -1,0 +1,11 @@
+body{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3nS3bKnvC3AmMfImlgqopqCL1099hDn5SHNVhh8fRW6CnN0PKH-2o7Vic1NDY6XmZDVE&usqp=CAU)
+    background-size  ;
+    background-repeat: no-repeat;
+   }
+#logo {
+		width: 612px;
+		height: 408px;
+		border-radius: 30px;
+		margin: 12px;
+	}
